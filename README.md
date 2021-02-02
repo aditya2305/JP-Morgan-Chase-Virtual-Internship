@@ -8,6 +8,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion 
 
+https://github.com/aditya2305/JP-Morgan-Chase-Virtual-Internship/blob/master/Certificate%20Of%20Completion.JPG
 
 ## For any queries/doubts:
 
